@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="label">Ingresar nuevo patron:</string>
+    <string name="btnlabel">Guardar</string>
+    <string name="label2">Dibujar un patron</string>
+    <string name="btnNew">Nuevo patron</string>
+    <string name="labelNombres">Nombre</string>
+    <string name="labelValor">Valor</string>
+
+    <string name="labelCreate">Altas</string>
+    <string name="labelDelete">Bajas</string>
+    <string name="labelExit">Salir</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="labelName">Nombre: </string>
+    <string name="labelValue">Valor: </string>
+    <string name="btnCreateAction">Dar de alta</string>
+    <string name="btnBack">Volver</string>
+
+
+</resources>
